@@ -1,0 +1,53 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.content {
+    display: flex;
+    text-align: center;
+}
+
+h1 {
+    margin: 0px 0px;
+}
+
+img {
+    border: 2px solid black;
+}
+
+.ingredients {
+    margin: auto;
+}
+
+#ingredients-title {
+    margin-left: 70px;
+}
+
+p {
+    width: 1300px;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    font-size: 18px;
+    font-family: "Courier New";
+}
+
+.steps {
+    margin: auto;
+}
+
+.title {
+    background-color:wheat;
+    width: 300px;
+    margin: auto;
+    text-align: center;
+    border: 2px solid black;
+    padding: 10px;
+}
+
+ul {
+    padding-left: 100px;
+}
+
+
+
